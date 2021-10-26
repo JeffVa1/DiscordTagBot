@@ -1,3 +1,5 @@
+# This program is not completed and still has a few bugs. Despite bugs, it is still capable of running a game of tag over discord.
+
 import discord
 from discord.ext import commands
 import os
